@@ -18,7 +18,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "dts-gen": "^0.6.0",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "tslint": "^5.20.1",
     "typescript": "^4.1.2"
   }
